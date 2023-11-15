@@ -1,0 +1,48 @@
+Country Name,Country Code,Series Name,Series Code,2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020],2021 [YR2021],2022 [YR2022]
+Fiji,FJI,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,4.73421948956532,5.60351440618308,4.50120041028764,2.44565179664174,5.35336455965106,3.81235122208518,-0.581946709343811,-17.0002349004837,-5.11160739321285,16.1248510230403
+Fiji,FJI,GDP per capita (current US$),NY.GDP.PCAP.CD,4586.95616503226,5305.06340024667,5105.1900392223,5368.43365862436,5825.19881260364,6073.39519537246,5968.31955666383,4864.10600771307,4646.53792141919,5316.65838506043
+Fiji,FJI,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,4.45972948136782,5.36048652723049,4.3143469773691,2.31502500392521,5.27907993633569,3.81494936623174,-0.52446930269538,-17.1767088877415,-5.54140221290679,15.4808828290272
+Fiji,FJI,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,3.62129654202479,12.505405677962,2.53089804690228,2.63332664334581,1.69845757051993,1.42571800764148,2.24346808710931,-1.21609609618226,-3.44657794910522,5.34072777267119
+Fiji,FJI,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.91354193604,0.519306474579103,1.37488542621447,3.86322538221274,3.34757834757835,4.08147637644538,1.7731018246027,-2.5952432588737,0.155855722131493,4.52019266394963
+Fiji,FJI,"Inflation, GDP deflator: linked series (annual %)",NY.GDP.DEFL.KD.ZG.AD,3.62129654202479,12.505405677962,2.53089804690228,2.63332664334581,1.69845757051993,1.42571800764148,2.24346808710931,-1.21609609618226,-3.44657794910522,5.34072777267119
+Fiji,FJI,Import unit value index (2015 = 100),TM.UVI.MRCH.XD.WD,118.0132616683,116.8332048808,100,95.5696230763,100.8173679757,107.9649407207,106.4730692977,103.4598996065,118.917017804,..
+Fiji,FJI,Import value index (2015 = 100),TM.VAL.MRCH.XD.WD,135.7952784461,156.2065958089,100,111.3190364868,116.2942031719,130.6945876405,131.4016459684,83.1644860948,101.6711720086,..
+Fiji,FJI,Import volume index (2015 = 100),TM.QTY.MRCH.XD.WD,115.0678123303,133.7005142824,100,116.4795181305,115.3513581011,121.0528035605,123.413034686,80.3833044413,85.4975796208,..
+Fiji,FJI,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,69.4749584086648,58.4780304692716,52.3522933763022,50.5272491970504,51.0060974871323,55.486624174387,58.5495884311323,44.2171594154861,54.5768979353172,62.2761473602306
+Fiji,FJI,Imports of goods and services (annual % growth),NE.IMP.GNFS.KD.ZG,..,..,..,..,..,..,..,..,..,..
+Fiji,FJI,"Imports of goods and services (BoP, current US$)",BM.GSR.GNFS.CD,2906816841.65044,2840858965.65197,2447036834.3268,2496081238.47825,2732197073.01992,3093022834.23021,3206096176.53514,1977288238.81789,2343720504.52826,3433781152.09168
+Fiji,FJI,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,..,..,2451385826.0244,..,..,..,..,..,..,..
+Fiji,FJI,Imports of goods and services (current US$),NE.IMP.GNFS.CD,2910979129.64151,2840338667.41484,2451385826.0244,2491101406.35975,2730595304.70176,3096944807.69252,3209508469.01313,1979615571.69542,2344752024.34038,3078464533.44141
+Fiji,FJI,"Imports of goods, services and primary income (BoP, current US$)",BM.GSR.TOTL.CD,3077236709.08477,3125643393.47199,2797367437.52038,2842289107.92111,3233451769.05695,3520937514.13918,3719321879.53922,2320677163.26331,2655894621.34925,3754046732.7486
+Fiji,FJI,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,56.8734283161838,52.3342755939207,48.8367555799083,46.6472413870702,46.015565038712,47.7487957741689,48.1312778068958,27.5196048991756,27.3065982821364,45.5701311426213
+Fiji,FJI,Exports of goods and services (annual % growth),NE.EXP.GNFS.KD.ZG,..,..,..,..,..,..,..,..,..,..
+Fiji,FJI,"Exports of goods and services (BoP, current US$)",BX.GSR.GNFS.CD,2377615452.08497,2543209905.22606,2281871121.23635,2304372448.15239,2467109096.87093,2660357995.29016,2636399008.32582,1230186406.38704,1171219630.19686,2376177773.76586
+Fiji,FJI,Exports of goods and services (constant LCU),NE.EXP.GNFS.KN,..,..,..,..,..,..,..,..,..,..
+Fiji,FJI,Exports of goods and services (current US$),NE.EXP.GNFS.CD,2382978941.64591,2541930113.03052,2286771461.12947,2299808726.35584,2463428727.70464,2665063649.96419,2638408704.22782,1232061016.70642,1173155749.44864,2252644687.46536
+Fiji,FJI,"Exports of goods, services and primary income (BoP, current US$)",BX.GSR.TOTL.CD,2465742324.49303,2602621732.24845,2348582375.56497,2376666926.79861,2544559335.88329,2729748500.00942,2697960078.64546,1292013409.71085,1232931378.78402,2433819185.55883
+Fiji,FJI,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",SL.UEM.1524.NE.ZS,..,18.12,..,15.4,..,..,..,..,..,..
+Fiji,FJI,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,14.032,14.244,14.555,14.927,14.911,15.145,15.455,16.628,16.469,14.896
+Fiji,FJI,"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)",SL.UEM.1524.MA.NE.ZS,..,13.86,..,11.86,..,..,..,..,..,..
+Fiji,FJI,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,11.652,11.612,11.589,11.627,11.608,11.796,12.078,13.016,12.77,11.458
+Fiji,FJI,"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",SL.UEM.1524.FE.NE.ZS,..,25.73,..,22.35,..,..,..,..,..,..
+Fiji,FJI,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,18.305,18.758,20.016,21.433,21.472,21.817,22.122,23.729,23.69,21.668
+Fiji,FJI,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..,6.17,..,4.32,..,..,..,..,..,..
+Fiji,FJI,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.318,4.277,4.286,4.32,4.261,4.315,4.442,4.794,4.929,4.334
+Fiji,FJI,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.994,3.854,3.769,3.708,3.665,3.721,3.842,4.226,4.272,3.72
+Fiji,FJI,"Unemployment, male (% of male labor force) (national estimate)",SL.UEM.TOTL.MA.NE.ZS,..,4.93,..,3.7,..,..,..,..,..,..
+Fiji,FJI,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.914,5.065,5.287,5.552,5.452,5.497,5.634,5.918,6.228,5.54
+Fiji,FJI,"Unemployment, female (% of female labor force) (national estimate)",SL.UEM.TOTL.FE.NE.ZS,..,8.51,..,5.54,..,..,..,..,..,..
+Fiji,FJI,"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SL.UEM.INTM.MA.ZS,..,6.68,..,4.59,..,..,..,..,..,..
+Fiji,FJI,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,..,8.56,..,5.55,..,..,..,..,..,..
+Fiji,FJI,"Unemployment with basic education, female (% of female labor force with basic education)",SL.UEM.BASC.FE.ZS,..,4.36,..,2.5,..,..,..,..,..,..
+Fiji,FJI,"Unemployment with basic education, male (% of male labor force with basic education)",SL.UEM.BASC.MA.ZS,..,3.35,..,2.6,..,..,..,..,..,..
+Fiji,FJI,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SL.UEM.INTM.FE.ZS,..,12.07,..,7.35,..,..,..,..,..,..
+Fiji,FJI,Unemployment with basic education (% of total labor force with basic education),SL.UEM.BASC.ZS,..,3.63,..,2.58,..,..,..,..,..,..
+Fiji,FJI,"Unemployment with advanced education, male (% of male labor force with advanced education)",SL.UEM.ADVN.MA.ZS,..,1.03,..,4.16,..,..,..,..,..,..
+Fiji,FJI,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,..,2.14,..,6.26,..,..,..,..,..,..
+Fiji,FJI,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,..,1.47,..,5.02,..,..,..,..,..,..
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,,,,,,
+Last Updated: 10/26/2023,,,,,,,,,,,,,
